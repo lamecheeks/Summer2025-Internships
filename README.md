@@ -57,8 +57,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
+| Company | Role | Location | Application/Link | Date Posted | Applied |
+| ------- | ---- | -------- | ---------------- | ----------- | ------- |
 | Zebra Technologies | 2025 Summer Internship - Software Engineer, RFID 🛂 | Holtsville, NY | <a href="https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | UBS | 2025 Summer Internship Program - Technology 🛂 | New York, NY</br>Weehawken, NJ | <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=305740&siteid=5131&partnerid=25008&PageType=JobDetails#jobDetails=305740_5131&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Siemens | Grid Software Internship: Software Developer 🛂 | Remote in USA</br>Minnetonka, MN | <a href="https://jobs.siemens.com/careers/job/563156120579876?hl=en&domain=siemens.com&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
